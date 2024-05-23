@@ -1,0 +1,23 @@
+
+1. SELECT AVG(energy), AVG(valence), AVG(danceability) FROM songs;
+
+The provided songlist of 100 songs, when sorted with the above query, gives the following results:
+
++-------------+--------------+-------------------+
+| AVG(energy) | AVG(valence) | AVG(danceability) |
++-------------+--------------+-------------------+
+| 0.65906     | 0.484443     | 0.71646           |
++-------------+--------------+-------------------+
+
+The following characterization could be inferred from the above results:
+
+While the listener'S energy and danceability levels are higher than the average listener,
+the average valence ('happiness') score is just lower than average.
+It could be inferred the listener enjoys faster, harder music with alternative, or potentially
+even anti-social themes. This could include metal, heavy electronica and/or rap.
+
+2. The above query omits much of the data provided in the list, leaving heavy speculation needed to make a characterization of the listener.
+The following metrics could be used:
+- Longer duration songs could indicate certain types of music, as would loudness, volume and key.
+- High Speechiness could indicate a more rap-centric collection.
+- High tempo could indicate more techno/electronic and/or hard rock/punk content.
