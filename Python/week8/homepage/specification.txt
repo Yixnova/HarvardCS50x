@@ -1,0 +1,39 @@
+1. HTML tags (other than <html>, <head>, <body>, <title>)
+<nav>
+<div>
+<a>
+<button>
+<span>
+<ul>
+<li>
+<h3>
+<img>
+<script>
+<svg>
+<p>
+<path>
+
+2. CSS properties
+font-size :
+padding :
+padding-top :
+padding-bottom :
+padding-right :
+padding-left :
+color :
+text-align :
+line-height :
+display :
+margin :
+margin-top :
+margin-left :
+margin-right :
+height :
+width :
+border-radius :
+background-color :
+opacity :
+
+3. Description of JavaScript and Bootstrap use
+Javascript used to make descriptions appear under Bootstrap icons
+Bootstrap used for Navbar, placement of components, icons, carousel display

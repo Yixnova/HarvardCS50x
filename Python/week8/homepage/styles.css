@@ -1,0 +1,81 @@
+h3 {
+    font-size : 24px;
+    padding-top : 5%;
+    color : #006875;
+    text-align : center;
+}
+
+p {
+    color : #006875;
+    font-size: 2em;
+    line-height:2em;
+    margin: 0;
+}
+
+svg {
+    color : #006875;
+}
+
+#boom_img {
+    display : block;
+    margin-top : 3%;
+    margin-left : auto;
+    margin-right : auto;
+    width : 20%;
+    border-radius: 25px;
+}
+
+.col {
+    padding : 5% 0;
+    text-align : center;
+}
+
+.col-12, .col-6 {
+    padding-left : 3%;
+    padding-top : 3%;
+    padding-bottom : 3%;
+    margin-top : 2%;
+}
+
+.col-6 {
+    padding-right : 5%;
+}
+
+.col-12 {
+    font-weight : bold;
+    color : #006875;
+}
+
+.shade {
+    background-color : #f2eceb;
+}
+
+.top_row {
+    margin-top : 4%;
+}
+
+.bi {
+    width : 3em;
+    height : 3em;
+}
+
+.caro_container {
+    display : block;
+    margin-top : 4%;
+    margin-left : auto;
+    margin-right : auto;
+    height : 400px;
+    width : 500px;
+}
+
+.d-block {
+    opacity : .5;
+}
+
+#credit {
+    color : #bdb295;
+    font-size : 1em;
+    margin-left : 75%;
+    margin-bottom : 0%;
+}
+
